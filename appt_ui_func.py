@@ -2,7 +2,7 @@
 # CS 419 Winter 2016, Group 10
 # Simplified Advising Scheduling - Curses UI only
 #
-# Originally part of a capstone project in OSU CS419, Winter 2016
+# Originally part of a capstone project from OSU CS419, Winter 2016
 # by Dustin Dinh, Michael Marven, and Erik Ratcliffe
 #
 
@@ -78,9 +78,6 @@ def reset_list(list_info, menu_items, list_win):
 #################################################
 
 def get_appts():
-
-    # Check for a database file. If it does not exist, exit.
-
 
     # Set up a new dictionary for appointment data
     appts = {}
