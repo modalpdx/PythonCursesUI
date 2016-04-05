@@ -25,6 +25,7 @@ General navigation (yes, basic Vi key navigation works):
 - Arrow-down or j moves down
 - Arrow-left or h moves left
 - Arrow-right or l moves right
+- D selects the highlighted appointment for deletion
 - Q quits the UI
 
 Calendar/date-picker:
