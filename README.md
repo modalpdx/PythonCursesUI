@@ -25,12 +25,12 @@ General navigation (yes, basic Vi key navigation works):
 - Arrow-down or j moves down
 - Arrow-left or h moves left
 - Arrow-right or l moves right
+- C pulls up the calendar/date-picker
 - D selects the highlighted appointment for deletion
 - Q quits the UI
 
 Calendar/date-picker:
 
-- C pulls up the calendar/date-picker
 - Arrow-up or k moves backward through months
 - Arrow-down or j moves forward through months
 - Arrow-left or h moves backward through days
