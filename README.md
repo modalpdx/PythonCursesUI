@@ -20,7 +20,7 @@ entries. All days without database entries will show "No appointments..."
 With the database in place, you have two options:
 
 1. Run ```python appt_ui.py``` at the command prompt, or
-2. Run ```chmod +x appt_ui.py``` and then ```./appt_ui.py```.
+2. Run ```chmod +x appt_ui.py``` to make the appt_ui.py self-executable, and then ```./appt_ui.py```.
 
 Either option should start the UI.
 
