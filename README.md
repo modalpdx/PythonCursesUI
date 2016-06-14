@@ -5,7 +5,7 @@ The bits that sent emails with appointment deletion attachments were
 removed because I did not write them. This repo only contains my
 Python-curses UI for the project.
 
-To run this, download all of the files into a directory and run the setup
+To run this, first download all of the files into a directory and run the setup
 script to get a sample database:
 
 ```
@@ -16,6 +16,13 @@ This will create an appt.db file in the directory containing sample
 entries for Feb. 28, 2016 - April 2, 2016. Those dates have obviously
 passed, so you will need to navigate to one of those dates to see the
 entries. All days without database entries will show "No appointments..."
+
+With the database in place, you have two options:
+
+1. Run ```python appt_ui.py``` at the command prompt, or
+2. Run ```chmod +x appt_ui.py``` and then ```./appt_ui.py```.
+
+Either option should start the UI.
 
 ##Keys:
 
